@@ -9,3 +9,5 @@ En la segunda parte, se realizó la conversión de los valores obtenidos de las 
 En la tercera parte, se creó un tablero en la plataforma Adafruit IO, al cual se le añadieron dos bloques para mostrar las lecturas de los sensores analógicos (0-15) y el resultado de la multiplicación de ambos valores.
 
 En la cuarta parte, se implementaron las funciones diseñadas anteriormente para enviar los valores de conversión de la entrada analógica y el resultado de la multiplicación, únicamente cuando se presionaba un botón. Ambos valores se enviaban al presionar el botón.
+
+Link de Adafruit: https://io.adafruit.com/SusanGuevara2003/dashboards/lab5
